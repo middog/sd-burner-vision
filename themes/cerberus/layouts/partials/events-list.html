@@ -1,0 +1,29 @@
+{{ $events := .Site.Data.events }}
+{{ if $events }}
+<div class="events-list">
+  {{ range first 5 $events }}
+  <article class="event-card">
+    <div class="event-date">
+      <span class="event-date__month">{{ dateFormat "Jan" .date }}</span>
+      <span class="event-date__day">{{ dateFormat "2" .date }}</span>
+    </div>
+    <div class="event-info">
+      <h3 class="event-info__title">{{ .title }}</h3>
+      <div class="event-info__meta">
+        {{ with .event_type }}<span class="event-type event-type--{{ . }}">{{ . }}</span>{{ end }}
+        {{ with .time }}{{ . }}{{ end }}
+        {{ with .location }} • 📍 {{ . }}{{ end }}
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+<div class="federation-notice">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/>
+  </svg>
+  <span><strong>Coming soon:</strong> Calendar federation with <a href="https://gath.io">gath.io</a> for community-owned events.</span>
+</div>
+{{ else }}
+<p class="text-muted">No upcoming events. Check back soon!</p>
+{{ end }}

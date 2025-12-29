@@ -1,0 +1,46 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-section">
+        <h4>{{ .Site.Title }}</h4>
+        <p style="color: var(--smoke); font-size: 0.85rem;">{{ .Site.Params.footer_desc }}</p>
+      </div>
+      <div class="footer-section">
+        <h4>Navigation</h4>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </div>
+      <div class="footer-section">
+        <h4>Connect</h4>
+        {{ with .Site.Params.contact.email }}<a href="mailto:{{ . }}">Email</a>{{ end }}
+        {{ with .Site.Params.contact.discord }}<a href="{{ . }}">Discord</a>{{ end }}
+      </div>
+      <div class="footer-section">
+        <h4>Resources</h4>
+        <a href="https://burningman.org/about/10-principles/">10 Principles</a>
+        <a href="https://gath.io">gath.io</a>
+      </div>
+    </div>
+    
+    <div class="footer-triangle">
+      <a href="{{ .Site.Params.sites.playa }}">
+        <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--heat);"></span>
+        PLAYA
+      </a>
+      <a href="{{ .Site.Params.sites.sdcap }}">
+        <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--oxygen);"></span>
+        SDCAP
+      </a>
+      <a href="{{ .Site.Params.sites.sdcolab }}">
+        <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--fuel);"></span>
+        SDCOLAB
+      </a>
+    </div>
+    
+    <div class="footer-bottom">
+      🔥 Three heads. One fire. No gatekeeping.<br>
+      <small>Built with <a href="https://gohugo.io">Hugo</a> • Self-hosted • FOSS</small>
+    </div>
+  </div>
+</footer>

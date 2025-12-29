@@ -1,0 +1,7 @@
+name = "Cerberus"
+license = "MIT"
+description = "Three-headed theme for the SD Burner ecosystem"
+min_version = "0.120.0"
+
+[author]
+  name = "SD Burner Community"

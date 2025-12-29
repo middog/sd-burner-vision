@@ -1,0 +1,290 @@
+{{ define "main" }}
+
+{{/* ==================== PLAYA HOMEPAGE ==================== */}}
+{{ if eq .Site.Params.site_id "playa" }}
+
+<div class="hero">
+<div class="container">
+<h1>Welcome to San Diego's Burning Man Community</h1>
+<p class="tagline">New here? Moved here? Looking for your people? You're in the right place.</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+<a href="{{ .Site.BaseURL }}about/" class="btn btn--primary">I'm Brand New</a>
+<a href="{{ .Site.BaseURL }}community/" class="btn btn--secondary">I Just Moved Here</a>
+<a href="{{ .Site.BaseURL }}events/" class="btn btn--ghost">What's Happening?</a>
+</div>
+</div>
+</div>
+
+<section class="section">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">Upcoming Events</h2>
+<p class="section__subtitle">Things to do, people to meet, fire to make</p>
+</header>
+{{ partial "events-list.html" . }}
+<div class="text-center mt-lg">
+<a href="{{ .Site.BaseURL }}events/" class="btn btn--secondary">See All Events →</a>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">The Fire Triangle</h2>
+<p class="section__subtitle">Three organizations. One community. Zero gatekeeping.</p>
+</header>
+{{ partial "fire-triangle.html" . }}
+<div class="text-center mt-lg" style="max-width: 600px; margin-left: auto; margin-right: auto;">
+<p>Fire needs three things: <strong>heat</strong>, <strong>oxygen</strong>, and <strong>fuel</strong>. So does community art.</p>
+<p><strong>PLAYA</strong> brings the heat—the energy, the events, the culture. <strong>SDCAP</strong> provides oxygen—grants, coordination, governance. <strong>SDCOLAB</strong> supplies fuel—space, tools, materials.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">Ready to Participate?</h2>
+<p class="section__subtitle">There are no spectators. Here's how to jump in.</p>
+</header>
+<div class="grid grid--3">
+<div class="card">
+<h3 class="card__title">🔥 Attend an Event</h3>
+<p>Show up. Say hi. Bring something to share. That's how you start.</p>
+<a href="{{ .Site.BaseURL }}events/" class="btn btn--ghost">Find Events</a>
+</div>
+<div class="card">
+<h3 class="card__title">🛠️ Build Something</h3>
+<p>Got an art idea? We have space and tools at CoLab.</p>
+<a href="{{ .Site.Params.sites.sdcolab }}" class="btn btn--ghost">Visit CoLab</a>
+</div>
+<div class="card">
+<h3 class="card__title">💰 Get Funded</h3>
+<p>SDCAP provides grants for community art projects.</p>
+<a href="{{ .Site.Params.sites.sdcap }}grants/" class="btn btn--ghost">Apply for Grants</a>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container container--narrow text-center">
+<h2>This Isn't a Club. It's a Culture.</h2>
+<p>We don't have members. We have <strong>participants</strong>—people who show up and contribute. The only requirement is participation.</p>
+<a href="{{ .Site.BaseURL }}about/" class="btn btn--primary mt-lg">Learn More About Us</a>
+</div>
+</section>
+
+{{/* ==================== SDCAP HOMEPAGE ==================== */}}
+{{ else if eq .Site.Params.site_id "sdcap" }}
+
+<div class="hero">
+<div class="container">
+<h1>San Diego Collaborative Arts Project</h1>
+<p class="tagline">501(c)(3) nonprofit enabling community art through grants, governance, and coordination.</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+<a href="{{ .Site.BaseURL }}grants/" class="btn btn--primary">Apply for a Grant</a>
+<a href="{{ .Site.BaseURL }}governance/" class="btn btn--secondary">How We Operate</a>
+</div>
+</div>
+</div>
+
+<section class="section">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">What We Do</h2>
+<p class="section__subtitle">We provide the oxygen that lets community art breathe.</p>
+</header>
+<div class="grid grid--3">
+<div class="card">
+<h3 class="card__title">💰 Grants</h3>
+<p>We fund community art through an open application process. Transparent criteria. Real money for real projects.</p>
+<a href="{{ .Site.BaseURL }}grants/" class="btn btn--ghost">Learn More</a>
+</div>
+<div class="card">
+<h3 class="card__title">🏛️ Governance</h3>
+<p>We provide the legal structure that enables community activity. 501(c)(3) status, insurance, fiscal sponsorship.</p>
+<a href="{{ .Site.BaseURL }}governance/" class="btn btn--ghost">Learn More</a>
+</div>
+<div class="card">
+<h3 class="card__title">🎪 YOUtopia</h3>
+<p>We produce San Diego's official Burning Man regional event in the mountains east of San Diego.</p>
+<a href="{{ .Site.BaseURL }}events/" class="btn btn--ghost">Learn More</a>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">The Fire Triangle</h2>
+<p class="section__subtitle">SDCAP is the Oxygen — we enable the flow.</p>
+</header>
+{{ partial "fire-triangle.html" . }}
+<div class="text-center mt-lg" style="max-width: 600px; margin-left: auto; margin-right: auto;">
+<p>Fire needs fuel, oxygen, and heat. SDCAP provides the oxygen—the governance, funding, and coordination that enables community projects to exist.</p>
+<p>We don't create the art. We create the conditions for art to happen.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container container--narrow">
+<h2 class="text-center">Grant Programs</h2>
+<div class="card mb-lg">
+<h3 class="card__title">YOUtopia Art Grants</h3>
+<p class="card__meta">Annual cycle — Applications open in Spring</p>
+<p>Funding for art at YOUtopia. <strong>Range:</strong> $500 – $5,000</p>
+</div>
+<div class="card">
+<h3 class="card__title">Community Project Grants</h3>
+<p class="card__meta">Rolling applications — Reviewed quarterly</p>
+<p>Funding for year-round community art. <strong>Range:</strong> $250 – $2,000</p>
+</div>
+<div class="text-center mt-xl">
+<a href="{{ .Site.BaseURL }}grants/" class="btn btn--primary">View Grant Guidelines</a>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container container--narrow text-center">
+<h2>Transparency</h2>
+<p>As a 501(c)(3), we're committed to transparency.</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem;">
+<a href="{{ .Site.BaseURL }}governance/" class="btn btn--secondary">Financial Reports</a>
+<a href="{{ .Site.BaseURL }}governance/" class="btn btn--secondary">Board Members</a>
+<a href="{{ .Site.BaseURL }}governance/" class="btn btn--secondary">Meeting Minutes</a>
+</div>
+</div>
+</section>
+
+{{/* ==================== SDCOLAB HOMEPAGE ==================== */}}
+{{ else if eq .Site.Params.site_id "sdcolab" }}
+
+<div class="hero">
+<div class="container">
+<h1>Build Things. Learn Skills. Make Art.</h1>
+<p class="tagline">San Diego's community makerspace. Tools, space, and expertise for your projects.</p>
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+<a href="{{ .Site.BaseURL }}space/" class="btn btn--primary">See the Space</a>
+<a href="{{ .Site.BaseURL }}access/" class="btn btn--secondary">Get Access</a>
+</div>
+</div>
+</div>
+
+<section class="section">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">What We Have</h2>
+<p class="section__subtitle">Real tools. Real space. Real expertise.</p>
+</header>
+<div class="grid grid--3">
+<div class="card">
+<h3 class="card__title">🔧 Workshop</h3>
+<p>2,500 sq ft with welding, woodworking, and metalworking equipment.</p>
+</div>
+<div class="card">
+<h3 class="card__title">⚡ Electronics Lab</h3>
+<p>Soldering, 3D printers, laser cutter, and LED components.</p>
+</div>
+<div class="card">
+<h3 class="card__title">🎨 Art Space</h3>
+<p>Painting area, fabric workspace, and climate-controlled storage.</p>
+</div>
+<div class="card">
+<h3 class="card__title">🚛 Yard</h3>
+<p>Outdoor space for large fabrication and fire testing.</p>
+</div>
+<div class="card">
+<h3 class="card__title">📚 Library</h3>
+<p>Reference materials and quiet space for planning.</p>
+</div>
+<div class="card">
+<h3 class="card__title">👥 Community</h3>
+<p>Experienced makers to help you build your thing.</p>
+</div>
+</div>
+<div class="text-center mt-xl">
+<a href="{{ .Site.BaseURL }}space/" class="btn btn--ghost">Full Tool List →</a>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">The Fire Triangle</h2>
+<p class="section__subtitle">CoLab is the Fuel — we provide the resources.</p>
+</header>
+{{ partial "fire-triangle.html" . }}
+<div class="text-center mt-lg" style="max-width: 600px; margin-left: auto; margin-right: auto;">
+<p>You can have all the energy and coordination in the world, but without materials and tools, nothing gets built.</p>
+<p>CoLab provides the fuel: physical space, equipment, materials, and expertise.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<header class="section__header">
+<h2 class="section__title">Upcoming Classes</h2>
+<p class="section__subtitle">Learn new skills from experienced makers</p>
+</header>
+<div class="grid grid--2">
+<div class="card">
+<span class="event-type event-type--workshop">Workshop</span>
+<h3 class="card__title mt-sm">Intro to MIG Welding</h3>
+<p class="card__meta">Saturday, Jan 11 • 10 AM – 2 PM</p>
+<p>Learn the basics. Leave with a completed project.</p>
+<a href="{{ .Site.BaseURL }}classes/" class="btn btn--ghost">Sign Up</a>
+</div>
+<div class="card">
+<span class="event-type event-type--workshop">Workshop</span>
+<h3 class="card__title mt-sm">LED Basics for Art</h3>
+<p class="card__meta">Sunday, Jan 19 • 1 PM – 5 PM</p>
+<p>Power supplies, addressable LEDs, basic patterns.</p>
+<a href="{{ .Site.BaseURL }}classes/" class="btn btn--ghost">Sign Up</a>
+</div>
+</div>
+<div class="text-center mt-lg">
+<a href="{{ .Site.BaseURL }}classes/" class="btn btn--secondary">All Classes →</a>
+</div>
+</div>
+</section>
+
+<section class="section section--alt">
+<div class="container container--narrow">
+<h2 class="text-center">How It Works</h2>
+<div style="display: grid; gap: 1.5rem; margin-top: 2rem;">
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+<div style="background: var(--fuel); color: white; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">1</div>
+<div><h4 style="margin-bottom: 0.25rem;">Come to Open Hours</h4><p class="text-muted" style="margin: 0;">First Fridays or Sunday Open Shop.</p></div>
+</div>
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+<div style="background: var(--fuel); color: white; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">2</div>
+<div><h4 style="margin-bottom: 0.25rem;">Get Oriented</h4><p class="text-muted" style="margin: 0;">Complete safety orientation (1 hour).</p></div>
+</div>
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+<div style="background: var(--fuel); color: white; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">3</div>
+<div><h4 style="margin-bottom: 0.25rem;">Build Your Thing</h4><p class="text-muted" style="margin: 0;">Use the space. Take classes. Ask for help.</p></div>
+</div>
+</div>
+<div class="text-center mt-xl">
+<a href="{{ .Site.BaseURL }}access/" class="btn btn--primary">Get Started</a>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container container--narrow text-center">
+<h2>Need Funding?</h2>
+<p>Got a project but need materials money? SDCAP provides grants.</p>
+<a href="{{ .Site.Params.sites.sdcap }}grants/" class="btn btn--secondary mt-md">Apply for a Grant</a>
+</div>
+</section>
+
+{{ end }}
+{{ end }}

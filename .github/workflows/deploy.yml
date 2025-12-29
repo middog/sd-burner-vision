@@ -1,0 +1,131 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Create theme symlinks
+        run: |
+          ln -s ${{ github.workspace }}/themes sites/playa/themes
+          ln -s ${{ github.workspace }}/themes sites/sdcap/themes
+          ln -s ${{ github.workspace }}/themes sites/sdcolab/themes
+
+      - name: Build PLAYA
+        run: |
+          cd sites/playa
+          hugo --minify --baseURL "/${{ github.event.repository.name }}/playa/"
+          
+      - name: Build SDCAP
+        run: |
+          cd sites/sdcap
+          hugo --minify --baseURL "/${{ github.event.repository.name }}/sdcap/"
+          
+      - name: Build SDCOLAB
+        run: |
+          cd sites/sdcolab
+          hugo --minify --baseURL "/${{ github.event.repository.name }}/sdcolab/"
+
+      - name: Combine builds
+        run: |
+          mkdir -p public
+          cp -r sites/playa/public public/playa
+          cp -r sites/sdcap/public public/sdcap
+          cp -r sites/sdcolab/public public/sdcolab
+          
+      - name: Create landing page
+        run: |
+          cat > public/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>SD Burner Vision</title>
+            <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+            <style>
+              * { box-sizing: border-box; margin: 0; padding: 0; }
+              body { font-family: 'Outfit', sans-serif; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #1A1A2E; color: #FEFEFE; padding: 2rem; }
+              .container { text-align: center; max-width: 700px; }
+              h1 { font-size: clamp(2rem, 5vw, 3.5rem); margin-bottom: 0.5rem; }
+              .tagline { color: #9CA3AF; font-size: 1.2rem; margin-bottom: 3rem; }
+              .sites { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; }
+              .site-card { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; padding: 2rem; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; text-decoration: none; color: inherit; transition: all 0.3s ease; min-width: 180px; }
+              .site-card:hover { transform: translateY(-6px); background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.2); }
+              .dot { width: 48px; height: 48px; border-radius: 50%; }
+              .dot--heat { background: #E63946; }
+              .dot--oxygen { background: #457B9D; }
+              .dot--fuel { background: #E9C46A; }
+              .site-name { font-weight: 600; font-size: 1.2rem; }
+              .site-desc { font-size: 0.9rem; color: #9CA3AF; }
+              .footer { margin-top: 4rem; font-size: 0.85rem; color: #6B7280; }
+              .footer a { color: #E9C46A; }
+            </style>
+          </head>
+          <body>
+            <div class="container">
+              <h1>🔥 SD Burner Vision</h1>
+              <p class="tagline">Three sites. One fire. Zero gatekeeping.</p>
+              <div class="sites">
+                <a href="./playa/" class="site-card">
+                  <span class="dot dot--heat"></span>
+                  <span class="site-name">PLAYA</span>
+                  <span class="site-desc">Heat — Culture & Events</span>
+                </a>
+                <a href="./sdcap/" class="site-card">
+                  <span class="dot dot--oxygen"></span>
+                  <span class="site-name">SDCAP</span>
+                  <span class="site-desc">Oxygen — Grants & Governance</span>
+                </a>
+                <a href="./sdcolab/" class="site-card">
+                  <span class="dot dot--fuel"></span>
+                  <span class="site-name">SDCOLAB</span>
+                  <span class="site-desc">Fuel — Space & Tools</span>
+                </a>
+              </div>
+              <p class="footer">Built with <a href="https://gohugo.io">Hugo</a> • <a href="https://github.com/middog/sd-burner-vision">View Source</a></p>
+            </div>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

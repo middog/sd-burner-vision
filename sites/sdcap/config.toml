@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "SDCAP"
+theme = "cerberus"
+
+[params]
+site_id = "sdcap"
+description = "San Diego Collaborative Arts Project. Grants and governance for community art."
+footer_desc = "The Oxygen element. Grants, governance, and coordination."
+
+[params.sites]
+playa = "../playa/"
+sdcap = "./"
+sdcolab = "../sdcolab/"
+
+[params.contact]
+email = "board@sdcap.org"
+
+[menu]
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Grants"
+url = "/grants/"
+weight = 2
+
+[[menu.main]]
+name = "Governance"
+url = "/governance/"
+weight = 3
+
+[[menu.main]]
+name = "Events"
+url = "/events/"
+weight = 4
+
+[[menu.main]]
+name = "Get Involved"
+url = "/get-started/"
+weight = 5
+
+[markup.goldmark.renderer]
+unsafe = true

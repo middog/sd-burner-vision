@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "PLAYA"
+theme = "cerberus"
+
+[params]
+site_id = "playa"
+description = "San Diego's Burning Man community. Events, culture, and connection."
+footer_desc = "The Heat element. Community, culture, and connection."
+
+[params.sites]
+playa = "./"
+sdcap = "../sdcap/"
+sdcolab = "../sdcolab/"
+
+[params.contact]
+email = "community@playa.sd"
+discord = "https://discord.gg/sdburners"
+
+[menu]
+[[menu.main]]
+name = "New Here?"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Events"
+url = "/events/"
+weight = 2
+
+[[menu.main]]
+name = "Community"
+url = "/community/"
+weight = 3
+
+[[menu.main]]
+name = "Get Started"
+url = "/get-started/"
+weight = 4
+
+[[menu.main]]
+name = "Culture"
+url = "/culture/"
+weight = 5
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "SDCOLAB"
+theme = "cerberus"
+
+[params]
+site_id = "sdcolab"
+description = "San Diego's community makerspace. Tools, space, and expertise."
+footer_desc = "The Fuel element. Space, tools, and resources."
+
+[params.sites]
+playa = "../playa/"
+sdcap = "../sdcap/"
+sdcolab = "./"
+
+[params.contact]
+email = "space@sdcolab.org"
+discord = "https://discord.gg/sdburners"
+
+[menu]
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Space"
+url = "/space/"
+weight = 2
+
+[[menu.main]]
+name = "Classes"
+url = "/classes/"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 4
+
+[[menu.main]]
+name = "Get Access"
+url = "/access/"
+weight = 5
+
+[markup.goldmark.renderer]
+unsafe = true
