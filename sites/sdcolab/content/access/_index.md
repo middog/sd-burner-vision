@@ -78,7 +78,7 @@ Use the space. Make your thing. Ask for help. Have fun.
 2. **Sign up for orientation** — Check Discord for schedule
 3. **Take your first class** — Pick something fun
 
-**More details:** [The SDCoLab Path](/how-we-gather/sdcolab-path/)
+**More details:** [The SDCoLab Path](../playa/how-we-gather/sdcolab-path/)
 
 ---
 

@@ -6,7 +6,7 @@ weight: 20
 
 ## How We Run 🔵
 
-Our governance reflects the [10 Principles](/culture/): transparent, participatory, and in service of the community.
+Our governance reflects the [10 Principles](../playa/culture/): transparent, participatory, and in service of the community.
 
 ## Structure
 
@@ -82,7 +82,7 @@ When we can't directly support something, we will:
 - **Email:** board@sdcap.org
 - **Discord:** #sdcap channel
 
-**New to SDCAP?** Start with [The SDCAP Path](/how-we-gather/sdcap-path/) for the friendly version.
+**New to SDCAP?** Start with [The SDCAP Path](../playa/how-we-gather/sdcap-path/) for the friendly version.
 
 ---
 

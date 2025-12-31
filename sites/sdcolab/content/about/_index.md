@@ -8,7 +8,7 @@ weight: 10
 
 **SDCoLab** (San Diego Collaborative Lab) is our community makerspace—where ideas become objects.
 
-In our [Fire Triangle](/how-we-gather/), SDCoLab is the **fuel**: the tools, space, materials, and expertise that make art possible. Without fuel, there's nothing for the fire to consume.
+In our [Fire Triangle](../playa/how-we-gather/), SDCoLab is the **fuel**: the tools, space, materials, and expertise that make art possible. Without fuel, there's nothing for the fire to consume.
 
 ## What We Provide
 
@@ -45,9 +45,9 @@ Barrio Logan area of San Diego. Address provided after orientation.
 
 ## Want to Get Started?
 
-**[The SDCoLab Path](/how-we-gather/sdcolab-path/)** — Friendly guide to engaging with the makerspace
+**[The SDCoLab Path](../playa/how-we-gather/sdcolab-path/)** — Friendly guide to engaging with the makerspace
 
-**[Your First Build](/how-we-gather/sdcolab-path/first-build/)** — From idea to object
+**[Your First Build](../playa/how-we-gather/sdcolab-path/first-build/)** — From idea to object
 
 ---
 

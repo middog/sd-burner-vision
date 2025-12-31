@@ -6,7 +6,7 @@ weight: 30
 
 ## Fuel for Your Fire 💸
 
-SDCAP provides grants to support community art aligned with the [10 Principles](/culture/). We're the **oxygen** helping your ideas breathe.
+SDCAP provides grants to support community art aligned with the [10 Principles](../playa/culture/). We're the **oxygen** helping your ideas breathe.
 
 ## Grant Programs
 
@@ -57,10 +57,10 @@ For art and community projects beyond YOUtopia.
 
 **Just ask.** Seriously. We'd rather help you shape a good proposal than have you not apply.
 
-- Start with [Your First Ask](/how-we-gather/sdcap-path/first-ask/)
+- Start with [Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/)
 - Or email grants@sdcap.org
 
-**Remember:** We follow the [Yes... And!](/how-we-gather/magic-of-3s/yes-and/) philosophy. Even if your project isn't a fit for grants, we'll help you find another path.
+**Remember:** We follow the [Yes... And!](../playa/how-we-gather/magic-of-3s/yes-and/) philosophy. Even if your project isn't a fit for grants, we'll help you find another path.
 
 ---
 

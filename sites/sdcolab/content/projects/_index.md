@@ -12,7 +12,7 @@ SDCoLab is home to dozens of ongoing projects—art cars, sculptures, interactiv
 
 ## Start Your Project
 
-Remember the [Growth Path](/how-we-gather/magic-of-3s/):
+Remember the [Growth Path](../playa/how-we-gather/magic-of-3s/):
 
 ```
 PROJECT → PARTY → PRACTICE
@@ -67,7 +67,7 @@ The best way to make progress: **invite the pack.**
 - Community bonds form
 - Usually there's food
 
-**Hosting a build party?** See [The SDCoLab Path](/how-we-gather/sdcolab-path/) for how to set one up.
+**Hosting a build party?** See [The SDCoLab Path](../playa/how-we-gather/sdcolab-path/) for how to set one up.
 
 ## Featured Builds
 

@@ -8,7 +8,7 @@ weight: 10
 
 **San Diego Collaborative Arts Project (SDCAP)** is a 501(c)(3) nonprofit supporting the San Diego Burning Man community.
 
-In our [Fire Triangle](/how-we-gather/), SDCAP is the **oxygen**—the enablement, logistics, and process that lets everything else happen. You can't see oxygen, but without it, fire can't breathe.
+In our [Fire Triangle](../playa/how-we-gather/), SDCAP is the **oxygen**—the enablement, logistics, and process that lets everything else happen. You can't see oxygen, but without it, fire can't breathe.
 
 ## What We Provide
 
@@ -39,7 +39,7 @@ Donations may be tax-deductible. Consult your tax advisor.
 
 ## Want to Engage?
 
-**New to SDCAP?** Start with [The SDCAP Path](/how-we-gather/sdcap-path/) for a friendly introduction.
+**New to SDCAP?** Start with [The SDCAP Path](../playa/how-we-gather/sdcap-path/) for a friendly introduction.
 
 **Ready to dive in?** Check out [Get Involved](/get-started/) or the [Governance](/governance/) section.
 

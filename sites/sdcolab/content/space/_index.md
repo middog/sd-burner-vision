@@ -68,7 +68,7 @@ These exist because we learned them the hard way:
 
 - **[Get Access](/access/)** — How to start using the space
 - **[Classes](/classes/)** — Learn tools properly
-- **[The SDCoLab Path](/how-we-gather/sdcolab-path/)** — Full engagement guide
+- **[The SDCoLab Path](../playa/how-we-gather/sdcolab-path/)** — Full engagement guide
 
 ---
 

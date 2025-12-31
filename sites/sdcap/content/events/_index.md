@@ -15,7 +15,7 @@ San Diego's official Burning Man regional event—a multi-day camping festival i
 | **Tickets** | Available spring/summer |
 | **What** | Art, music, fire, community, radical self-expression |
 
-YOUtopia is where the San Diego Burning Man community comes together to create a temporary city based on the [10 Principles](/culture/).
+YOUtopia is where the San Diego Burning Man community comes together to create a temporary city based on the [10 Principles](../playa/culture/).
 
 ## SDCAP-Supported Events
 
@@ -26,13 +26,13 @@ Throughout the year, SDCAP supports community events with:
 - 💸 Event grants (when available)
 - 🤝 Logistics guidance
 
-**Want support for your event?** Check out [The SDCAP Path](/how-we-gather/sdcap-path/) or [Your First Ask](/how-we-gather/sdcap-path/first-ask/).
+**Want support for your event?** Check out [The SDCAP Path](../playa/how-we-gather/sdcap-path/) or [Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/).
 
 ## Community Calendar
 
 For **all** community events (not just SDCAP-sponsored), check:
 
-**→ [PLAYA Events Calendar](/events/)**
+**→ [PLAYA Events Calendar](../playa/events/)**
 
 That's where the heat gathers. 🔥
 

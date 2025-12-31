@@ -13,7 +13,7 @@ SDCAP is all-volunteer. Everything happens because people like you step up.
 | If You Want To... | Do This |
 |-------------------|---------|
 | Get funding for art | [Apply for a grant](/grants/) |
-| Support an event | [Learn about event support](/how-we-gather/sdcap-path/) |
+| Support an event | [Learn about event support](../playa/how-we-gather/sdcap-path/) |
 | Have us handle your taxes | Ask about fiscal sponsorship |
 | Help run things | Join a committee |
 | Shape the future | Run for the board |
@@ -59,7 +59,7 @@ Events always need help—especially YOUtopia. Watch for volunteer calls in Disc
 
 ## Not Sure Where to Start?
 
-**[Your First Ask](/how-we-gather/sdcap-path/first-ask/)** — Just reach out. We'll help you figure it out.
+**[Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/)** — Just reach out. We'll help you figure it out.
 
 ---
 
