@@ -1,18 +1,41 @@
 ---
 title: "Events"
 description: "SDCAP-sponsored events and YOUtopia"
+weight: 40
 ---
 
-## YOUtopia
+## YOUtopia 🏜️
 
-San Diego's official Burning Man regional event, held annually in October in the mountains east of San Diego.
+San Diego's official Burning Man regional event—a multi-day camping festival in the mountains east of San Diego.
 
-- **When:** Columbus Day weekend
-- **Where:** Los Coyotes Indian Reservation
-- **Tickets:** Available spring/summer
+| Detail | Info |
+|--------|------|
+| **When** | Columbus Day weekend (October) |
+| **Where** | Los Coyotes Indian Reservation |
+| **Tickets** | Available spring/summer |
+| **What** | Art, music, fire, community, radical self-expression |
 
-## Other Events
+YOUtopia is where the San Diego Burning Man community comes together to create a temporary city based on the [10 Principles](/culture/).
 
-SDCAP sponsors and supports community events throughout the year, including grant application workshops, board meetings, and community gatherings.
+## SDCAP-Supported Events
 
-Check the [PLAYA calendar](../playa/events/) for all community events.
+Throughout the year, SDCAP supports community events with:
+
+- 📋 Insurance certificates
+- 📢 Promotion through our channels
+- 💸 Event grants (when available)
+- 🤝 Logistics guidance
+
+**Want support for your event?** Check out [The SDCAP Path](/how-we-gather/sdcap-path/) or [Your First Ask](/how-we-gather/sdcap-path/first-ask/).
+
+## Community Calendar
+
+For **all** community events (not just SDCAP-sponsored), check:
+
+**→ [PLAYA Events Calendar](/events/)**
+
+That's where the heat gathers. 🔥
+
+---
+
+*Where the community burns together.* 🏜️🔵
