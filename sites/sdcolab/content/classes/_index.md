@@ -4,77 +4,39 @@ description: "Learn new skills from experienced makers"
 weight: 30
 ---
 
-## Level Up Your Skills 🎓
+## Classes = skill + safety + access 🎓🟡
 
-Classes are how you unlock access to tools—and how the community shares knowledge.
+Classes serve three purposes:
+1. **Safety:** learn to use tools without injury
+2. **Access:** certifications unlock tool areas
+3. **Community:** you meet the humans you’ll build with
 
-## Why Classes?
+Offerings shift based on instructor availability; check the community channels for the current calendar.
 
-1. **Safety** — You learn to use tools without hurting yourself
-2. **Access** — Certification unlocks unsupervised tool use
-3. **Community** — You meet other makers and learn from their experience
-4. **Gifting** — Instructors share knowledge freely (that's the culture)
-
-## Current Offerings
+## Typical class categories
 
 ### 🔥 Metalworking
-
-| Class | Duration | Cost |
-|-------|----------|------|
-| **Intro to MIG Welding** | 4 hours | $40 |
-| **TIG Welding Fundamentals** | 6 hours | $60 |
-| **Plasma Cutting** | 2 hours | $25 |
+Examples: intro MIG, TIG fundamentals, plasma cutting
 
 ### ⚡ Electronics
+Examples: LED basics for art, soldering 101, sensors/interaction
 
-| Class | Duration | Cost |
-|-------|----------|------|
-| **LED Basics for Art** | 4 hours | $30 |
-| **Soldering 101** | 2 hours | $20 |
-| **Interactive Art: Sensors** | 4 hours | $40 |
-
-### 🔧 Fabrication
-
-| Class | Duration | Cost |
-|-------|----------|------|
-| **Laser Cutter Certification** | 3 hours | $25 |
-| **3D Printing Fundamentals** | 2 hours | $20 |
+### 🧰 Fabrication
+Examples: laser cutter certification, 3D printing fundamentals
 
 ### 🪵 Woodworking
+Examples: basic woodworking, safe saw use, finishing
 
-| Class | Duration | Cost |
-|-------|----------|------|
-| **Basic Woodworking** | 6 hours | $50 |
+## How to sign up
+1. find an upcoming class (calendar/Discord)
+2. register via the posted method
+3. show up on time with closed‑toe shoes and a learning mindset
 
-## How to Sign Up
+## Want to teach?
+Teaching is a direct way to gift skills forward.
 
-1. Check the calendar for upcoming classes
-2. Register through Discord or the sign-up link
-3. Pay at the door (or arrange ahead)
-4. Show up ready to learn
-
-**Class schedule:** Posted in Discord and updated monthly.
-
-## Want to Teach? 🐕
-
-Share your expertise. Teaching is gifting.
-
-**What you get:**
-- Free membership while teaching
-- Joy of passing on knowledge
-- Community appreciation
-
-**Interested?** Email classes@sdcolab.org or ask in Discord.
-
-## Not Sure Where to Start?
-
-For your first class, pick something that excites you—not necessarily something "practical." The skills will transfer, and enthusiasm makes learning easier.
-
-**Popular first classes:**
-- LED Basics (instant gratification)
-- Laser Cutter (precision + wow factor)
-- Intro to MIG Welding (fire! metal!)
+If you want to propose a class: email **classes@sdcolab.org** or ask in Discord.
 
 ---
 
-*Learn it. Make it. Teach it forward.* 🎓🟡
+*Learn it. Use it safely. Teach it forward.* 🎓🐾

@@ -3,26 +3,23 @@ title: "SDCAP"
 description: "San Diego Collaborative Arts Project — the oxygen that lets art breathe"
 ---
 
-## The Oxygen in Our Fire Triangle 🔵
+## SDCAP: nonprofit enablement 🔵💨
 
-**SDCAP** is the 501(c)(3) nonprofit that enables San Diego's Burning Man community. We provide grants, fiscal sponsorship, insurance, and coordination.
+**SDCAP** is the 501(c)(3) that supports San Diego’s Burning Man community with the “oxygen layer”:
+grants, fiscal sponsorship, insurance/event enablement, and transparent governance.
 
-We don't own the art. We don't run the events. **We clear the path so you can.**
+The intent is simple: **enable community-led art and events without owning them**.
 
-## Quick Links
+## Start here
 
-| I want to... | Go here |
-|--------------|---------|
-| **Understand how to work with SDCAP** | [How to Engage with SDCAP →](../playa/how-we-gather/sdcap-path/) |
-| Get funding for art | [Grants](/grants/) |
-| Learn about YOUtopia | [Events](/events/) |
-| See how we operate | [Governance](/governance/) |
-| Get involved | [Volunteer & Participate](/get-started/) |
-
-## New Here?
-
-Start with **[How to Engage with SDCAP](../playa/how-we-gather/sdcap-path/)** — a friendly guide to working with our nonprofit, from your first question to fiscal sponsorship.
+| I want to… | Go here |
+|---|---|
+| Understand how to work with SDCAP | [How to Engage →]({{< xsite "playa" "how-we-gather/sdcap-path/" >}}) |
+| Explore funding options | [Grants →]({{< relref "grants/_index.md" >}}) |
+| Learn about YOUtopia | [Events →]({{< relref "events/_index.md" >}}) |
+| See how decisions get made | [Governance →]({{< relref "governance/_index.md" >}}) |
+| Join the work | [Get Involved →]({{< relref "get-started/_index.md" >}}) |
 
 ---
 
-*Clearing the path for motion and flow.* 💨🔵
+*Oxygen for art: structure that helps the work breathe.* 🔵

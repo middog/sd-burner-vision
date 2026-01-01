@@ -8,7 +8,7 @@
       <div class="footer-section">
         <h4>Navigation</h4>
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
         {{ end }}
       </div>
       <div class="footer-section">
@@ -24,15 +24,15 @@
     </div>
     
     <div class="footer-triangle">
-      <a href="{{ .Site.Params.sites.playa }}">
+      <a href="{{ .Site.Params.sites.playa | relURL }}">
         <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--heat);"></span>
         PLAYA
       </a>
-      <a href="{{ .Site.Params.sites.sdcap }}">
+      <a href="{{ .Site.Params.sites.sdcap | relURL }}">
         <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--oxygen);"></span>
         SDCAP
       </a>
-      <a href="{{ .Site.Params.sites.sdcolab }}">
+      <a href="{{ .Site.Params.sites.sdcolab | relURL }}">
         <span class="dot" style="width:10px;height:10px;border-radius:50%;background:var(--fuel);"></span>
         SDCOLAB
       </a>

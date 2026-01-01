@@ -1,106 +1,52 @@
 ---
 title: "Your First Ask"
-description: "How to approach SDCAP when you need something — no fear required"
+description: "How to approach SDCAP when you need something — clear, simple, low-friction"
 weight: 10
 ---
 
-## You Have a Need. We Might Help. Let's Talk. 🐕
+## Start with a small, clear ask 🧾🔵
 
-Maybe you've got an idea. Maybe you need funding. Maybe you're not even sure what you need yet.
+You don’t need to understand the org chart to begin. You just need to describe the shape of your need.
 
-That's okay. Here's how to start.
+## Where to ask
 
----
+Use whichever channel is easiest:
+- community Discord (SDCAP-related channel/thread)
+- email listed on the **[SDCAP site]({{< xsite "sdcap" >}})**  
+  (common contacts include **board@sdcap.org** for general questions and **grants@sdcap.org** for grant questions)
 
-## The "Just Ask" Rule
+If you ask the “wrong” person, you’ll get routed. That’s normal.
 
-For most things, you don't need a form. You don't need permission. You just... ask.
+## What to include (three lines)
 
-**Ways to reach out:**
+1. **What you’re doing** (1–2 sentences)
+2. **What you need** (money? insurance? advice? “not sure”)
+3. **When** (a rough timeline + any deadlines)
 
-- 💬 Drop a message in Discord (#ask-sdcap or just wherever)
-- 📧 Email: info@[domain]
-- 👋 Find a board member at an event and say hi
-- 🐾 Literally just ask anyone who seems to know things
+Optional but helpful:
+- a rough budget range
+- where it’s happening
+- who’s involved (even “just me so far”)
 
-**Timeline:** We try to respond within 48 hours. If we don't, ping us again. We're volunteers — things slip sometimes.
+## Examples
 
----
+> “I’m building a small interactive sculpture for YOUtopia. I may need partial funding for materials. Timeline is March–October.”
 
-## What to Include in Your Ask
+> “We’re hosting a workshop for ~30 people in a park next month. Do we need insurance? If so, what’s the process?”
 
-The more specific you are, the faster we can help. But we don't need a formal proposal. Just tell us:
+> “We want to accept donations for an art project but don’t have a nonprofit. Is fiscal sponsorship a fit?”
 
-1. **What you're trying to do** (in a sentence or two)
-2. **What kind of help you need** (money? advice? connections? not sure?)
-3. **When it needs to happen** (next week? next month? no rush?)
+## What happens next
 
-That's it. We'll take it from there.
+Typically you’ll get:
+1. acknowledgment + a clarifying question (if needed)
+2. routing to the right committee/person
+3. a clear answer: **yes**, **not yet**, or **no—here’s an alternate path**
 
----
+## If your ask is “big”
 
-## Example Asks
-
-> "Hey, I want to build a fire art piece for YOUtopia and I've never done this before. Who should I talk to?"
-
-> "My camp is thinking about applying for a grant. What's the process?"
-
-> "I'm organizing a workshop and wondering if I can use CoLab space. How does that work?"
-
-> "I have this weird idea and I don't know if it's feasible. Can I bounce it off someone?"
-
-All of these are great. All of them will get a response.
+You can still start with a message. For larger requests (fiscal sponsorship, major grants, complex events), expect an agreement and a little more structure—mostly to keep everyone protected and aligned.
 
 ---
 
-## What Happens Next
-
-After you ask, someone will:
-
-1. **Acknowledge** — "Got it, thanks for reaching out!"
-2. **Clarify** — "Can you tell me more about X?"
-3. **Route** — "Let me connect you with the right person/committee"
-4. **Respond** — "Here's what we can offer..."
-
-If we can't help directly, we'll tell you who might. That's the **Yes... And!** promise.
-
----
-
-## Common Questions from New Folks
-
-**"Is my idea too small/weird/ambitious?"**
-> There's no such thing. Bring it.
-
-**"I don't know anyone. Will they take me seriously?"**
-> Yes. We welcome the stranger. That's Principle #1.
-
-**"What if I ask the wrong person?"**
-> They'll point you to the right one. No drama.
-
-**"Do I need to be a member/donor/something to ask?"**
-> Nope. Just be you.
-
----
-
-## When You Need More Than a Quick Answer
-
-If your need is bigger (fiscal sponsorship, major grant, project proposal), we'll walk you through the formal process. But you still start by asking.
-
-- **Fiscal sponsorship** → Treasurer will reach out
-- **Grants** → Grants Committee will explain the cycle
-- **Event support** → Events Committee will help plan
-- **Technology** → Tech Committee will evaluate
-
-You don't need to know which committee to contact. We'll route you.
-
----
-
-## The Vibe
-
-We're here to **clear the path**, not add to the maze.
-
-If you ever feel like you're getting bureaucratic runaround, tell us. That's not how we want to operate. We're dogs, not cats. We come when called. 🐕
-
----
-
-*Confused? Curious? Just ask. That's the whole trick.* 🔵
+*Clear ask → correct routing → faster help.* 🔵

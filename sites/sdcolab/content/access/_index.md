@@ -4,82 +4,59 @@ description: "How to use CoLab — from visitor to key holder"
 weight: 20
 ---
 
-## Your Path Into the Shop 🔧
+## Access is progressive 🔧🧭
 
-Access to SDCoLab follows a natural progression. Start simple, grow from there.
+SDCoLab access is designed to be simple: start with a visit, learn safety norms, then unlock tools through training.
 
 ```
-VISIT → ORIENT → LEARN → BUILD
+VISIT → ORIENT → CERTIFY → BUILD
 ```
 
 ## Step 1: Visit 👀
+Come see the space with no commitment.
 
-Come see the space. No commitment, no pressure.
+Typical good first visits:
+- **First Fridays** (monthly open house)
+- **Sunday Open Shop** (weekly open build time)
 
-**Best times to visit:**
+Show up, introduce yourself, and ask for a quick tour.
 
-| Event | When | What to Expect |
-|-------|------|----------------|
-| **First Fridays** | 6–9 PM monthly | Open house, tours, social vibe |
-| **Sunday Open Shop** | 12–5 PM weekly | People actively building |
+## Step 2: Orientation 📋
+Orientation covers:
+- shop rules and expectations
+- safety equipment + emergency basics
+- tool access levels
+- how to get help
 
-Just show up. Introduce yourself. Look around. Ask questions.
+After orientation, you can generally use basic areas/tools during staffed/open hours.
 
-## Step 2: Orient 📋
+## Step 3: Certification 🎓
+Many tools require certification:
+- you learn safe operation
+- you demonstrate competence
+- your certification is recorded
 
-Complete the safety orientation (about 1 hour). You'll learn:
-
-- Space rules and expectations
-- Safety equipment locations
-- Tool access levels
-- How to get help when you need it
-
-**After orientation:** You can use basic tools during staffed hours.
-
-## Step 3: Learn 🎓
-
-Take [classes](/classes/) to unlock access to specific tools.
-
-Each class teaches safe operation and certifies you for unsupervised use. No certification = no access to that tool. (It's a safety thing, not a gatekeeping thing.)
+No cert = no solo use. That’s a safety boundary, not a social boundary.
 
 ## Step 4: Build 🔨
+Build during open/staffed hours and within your certification set.
+As you take more classes, you unlock more capability.
 
-Use the space. Make your thing. Ask for help. Have fun.
+## Access levels (typical)
 
-- Open hours: Use your certifications
-- More classes: Unlock more tools
-- Build parties: Get help from the pack
-- Need funding? [SDCAP grants](../sdcap/grants/) can help
+| Level | What it means |
+|---|---|
+| 🟢 **Visitor** | tour, observe, attend open events |
+| 🟡 **Oriented** | basic tool/space use during open hours |
+| 🟠 **Certified** | specific tools you’re trained on |
+| 🔴 **Member** | deeper access, storage, regular shop time |
+| ⚫ **Key holder** | extended access (policy-dependent) |
 
-## Access Levels
-
-| Level | What You Can Do | How to Get It |
-|-------|-----------------|---------------|
-| 🟢 **Visitor** | Tour, observe, attend events | Just show up |
-| 🟡 **Oriented** | Basic tools during staffed hours | Complete orientation |
-| 🟠 **Certified** | Specific tools you've trained on | Take classes |
-| 🔴 **Member** | Scheduled time, storage, voting | Monthly dues |
-| ⚫ **Key Holder** | 24/7 access | $100/month + trust |
-
-## Costs
-
-| Access | Cost |
-|--------|------|
-| **Open hours** | Free |
-| **Classes** | $20–50 |
-| **Monthly membership** | $50 suggested |
-| **Key holder (24/7)** | $100/month |
-
-**Can't afford it?** We'd rather have you building than not. Talk to us.
-
-## Ready to Start?
-
-1. **Come to First Friday** — Best first visit
-2. **Sign up for orientation** — Check Discord for schedule
-3. **Take your first class** — Pick something fun
-
-**More details:** [The SDCoLab Path](../playa/how-we-gather/sdcolab-path/)
+## Ready to start?
+1. visit on an open day
+2. complete orientation
+3. take one class that matches your first small project
 
 ---
 
-*The fuel awaits. Come make something.* 🟡🔧
+*Safe access is what keeps the shop usable for everyone.* 🟡🥽

@@ -4,77 +4,42 @@ description: "What people are building at CoLab"
 weight: 50
 ---
 
-## What's Getting Built 🔨
+## Projects live here 🔨🟡
 
-SDCoLab is home to dozens of ongoing projects—art cars, sculptures, interactive installations, costumes, and weird things that defy categorization.
+SDCoLab hosts ongoing builds: sculptures, interactive pieces, costumes, camp infrastructure, prototypes, repairs, and delightful nonsense.
 
-**That's the point.** You bring the vision, we provide the fuel.
-
-## Start Your Project
-
-Remember the [Growth Path](../playa/how-we-gather/magic-of-3s/):
+A useful pattern for starting:
 
 ```
 PROJECT → PARTY → PRACTICE
 ```
 
-Most things should start as bounded **projects**. Here's how:
+## Start a project (simple path)
 
-### 1. Come to Open Hours
-Tour the space. See what's possible. Get inspired.
+1. **Visit during open hours** (see what’s possible)
+2. **Complete orientation** (safety + norms)
+3. **Take the class/cert you need** (for your smallest next step)
+4. **Build the first version** (finishable > perfect)
+5. **Invite help** (build parties turn solo work into community)
 
-### 2. Get Oriented
-Complete safety orientation. Takes about an hour.
+## Need funding?
+Some builds may qualify for **[SDCAP grants]({{< xsite "sdcap" "grants/" >}})** (community-facing benefit, clear scope, stewardship).
 
-### 3. Claim Space
-Talk to a coordinator about storage and workspace needs.
+## Project residency (when capacity allows)
+For larger builds that need a defined footprint over time, SDCoLab may offer project residency or dedicated storage arrangements. Expect:
+- a clear scope + timeline
+- safety compliance
+- regular check‑ins
+- a clean exit plan (leave‑no‑trace for projects)
 
-### 4. Build!
-Use the tools. Take [classes](/classes/). Ask for help. Make the thing.
+## Build parties 🎉
+Build parties are how big work becomes possible:
+- many hands
+- shared learning
+- shared ownership of the outcome (even when the vision is yours)
 
-## Need Funding?
-
-Your project might qualify for an [SDCAP grant](../sdcap/grants/). Grants cover:
-
-- Materials and supplies
-- Specialized tools or equipment rental
-- Event installation costs
-
-**Don't be shy.** Many amazing projects started with a grant application.
-
-## Project Residency
-
-For larger projects that need dedicated space over time:
-
-| Requirement | Detail |
-|-------------|--------|
-| Active member | In good standing |
-| Defined project | Clear scope and timeline |
-| Budget | For materials/consumables |
-| Leave-no-trace | Commitment to clean exit |
-| Check-ins | Weekly progress updates |
-
-**Duration:** 1-3 months, renewable if on track.
-
-**To apply:** Talk to the Space Coordinator.
-
-## Build Parties 🎉
-
-The best way to make progress: **invite the pack.**
-
-- Your project, many hands
-- Learning happens naturally
-- Community bonds form
-- Usually there's food
-
-**Hosting a build party?** See [The SDCoLab Path](../playa/how-we-gather/sdcolab-path/) for how to set one up.
-
-## Featured Builds
-
-*Coming soon: project spotlights and documentation.*
-
-Want your project featured? Post photos in Discord #builds!
+For process context: **[SDCoLab Path]({{< xsite "playa" "how-we-gather/sdcolab-path/" >}})**
 
 ---
 
-*From your brain to your hands to the world.* 🟡🔧
+*Make the first version. Then make it better—together.* 🟡🔥

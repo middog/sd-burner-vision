@@ -4,37 +4,40 @@ description: "Things to do, people to meet, fire to make"
 weight: 40
 ---
 
-## Where the Heat Happens 🔥
+## Events are where the heat becomes real 🔥👣
 
-Events are where community actually forms. From casual potlucks to fire spinning practice to all-night art builds—this is where we gather.
+Calendars and websites help, but community forms in person: shared work, shared meals, shared moments.
 
-## Upcoming Events
+Use this page as a starting point, then follow the live channels for the most current details.
 
-*Check Discord for the latest calendar and announcements.*
+## Upcoming events
 
-## Event Types
+For the latest posts, updates, and last‑minute changes, check the community channels (Discord) and the event listings shared there.
 
-| Type | What It Is | Example |
-|------|------------|---------|
-| **Social** | Casual hangouts | Potlucks, game nights, happy hours |
-| **Build** | Making things together | [SDCoLab](../sdcolab/) open shop, build parties |
-| **Practice** | Skill sharing | Fire spinning, flow arts, workshops |
-| **Burns** | Official regional events | YOUtopia, decompression |
+## Common event types
 
-## Want to Host? 🐕
+| Type | What it looks like |
+|---|---|
+| **Social** | potlucks, decompressions, hangs |
+| **Build** | shop nights, build parties, mutual aid |
+| **Practice** | fire/flow sessions, workshops, rehearsals |
+| **Regional** | YOUtopia and related community milestones |
 
-Anyone can create a community event. **No permission needed.**
+Build‑heavy events often happen at **[SDCoLab]({{< xsite "sdcolab" >}})**.
 
-1. Have an idea
-2. Pick a date (check the calendar to avoid conflicts)
-3. Find a venue (park, house, [CoLab](../sdcolab/), wherever)
-4. Post it to Discord
-5. Show up and make it happen
+## Want to host something?
 
-**Events don't need to be fancy.** Some of our best gatherings started as "hey, want to come help me build this thing?"
+You can. Keep it simple.
 
-**Need support?** [SDCAP](../sdcap/) can help with insurance, promotion, and resources for larger events. Check out [The SDCAP Path](/how-we-gather/sdcap-path/).
+1. Define a purpose (social, build, practice)
+2. Pick a date/time and a location
+3. Post it where people will see it (Discord + community calendar)
+4. Show up early, leave the site clean, and follow through
+
+If the ask is larger (insurance, permits, significant gear/coordination), SDCAP may be able to help:
+
+- **[The SDCAP Path →]({{< relref "how-we-gather/sdcap-path/_index.md" >}})**
 
 ---
 
-*Gather the heat. Feed the fire.* 🔥🐾
+*Gather the heat. Make the fire.* 🔥🐾

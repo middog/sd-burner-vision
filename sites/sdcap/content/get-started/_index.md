@@ -4,63 +4,55 @@ description: "Ways to participate in SDCAP"
 weight: 50
 ---
 
-## Ways to Engage 🐾
+## Ways to engage 🔵🐾
 
-SDCAP is all-volunteer. Everything happens because people like you step up.
+SDCAP is volunteer‑run. The work moves when people step in.
 
-## Quick Paths
+## Quick paths
 
-| If You Want To... | Do This |
-|-------------------|---------|
-| Get funding for art | [Apply for a grant](/grants/) |
-| Support an event | [Learn about event support](../playa/how-we-gather/sdcap-path/) |
-| Have us handle your taxes | Ask about fiscal sponsorship |
-| Help run things | Join a committee |
-| Shape the future | Run for the board |
+| If you want to… | Start here |
+|---|---|
+| Apply for funding | [Grants →]({{< relref "grants/_index.md" >}}) |
+| Get event enablement support | [How to Engage →]({{< xsite "playa" "how-we-gather/sdcap-path/" >}}) |
+| Explore fiscal sponsorship | [How to Engage →]({{< xsite "playa" "how-we-gather/sdcap-path/" >}}) |
+| Help run programs | join a committee |
+| Shape direction | run for the board |
 
-## Join a Committee
+## Join a committee
 
-Committees do the actual work. No board seat required.
+Committees do most of the execution. Examples:
 
-| Committee | What They Do |
-|-----------|--------------|
-| **Grants** | Review applications, make funding decisions |
-| **YOUtopia** | Plan and produce the regional burn |
-| **Communications** | Outreach, documentation, community updates |
-| **Technology** | Systems, infrastructure, digital tools |
+| Committee | What it does |
+|---|---|
+| **Grants** | review proposals; recommend funding decisions |
+| **YOUtopia** | plan and produce the regional event |
+| **Communications** | outreach, documentation, updates |
+| **Technology** | systems, infrastructure, digital tools |
 
-**Interested?** Email board@sdcap.org or ask in Discord.
+To join: email **board@sdcap.org** or ask in the SDCAP Discord channel.
 
-## Run for the Board
+## Run for the board
 
-Board elections happen at the Annual Meeting. Terms are 2 years.
+Board service involves:
+- monthly meetings (often 2–3 hours)
+- committee participation
+- stewardship responsibility (finance, risk, governance)
 
-**What it involves:**
-- Monthly board meetings (2-3 hours)
-- Committee participation
-- Event attendance
-- Decision-making responsibility
-
-**Interested?** Email board@sdcap.org to express interest. We'll connect you with current board members to answer questions.
+If you’re considering it, reach out early; we’re happy to explain the load.
 
 ## Donate
 
-Support community art directly. Donations may be tax-deductible.
-
-**What donations fund:**
-- Art grants
-- Event insurance
-- Community infrastructure
+Donations support:
+- art grants
+- event insurance and enablement
+- community infrastructure
 - YOUtopia production
 
-## Volunteer
+## Not sure where you fit?
 
-Events always need help—especially YOUtopia. Watch for volunteer calls in Discord and on the mailing list.
-
-## Not Sure Where to Start?
-
-**[Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/)** — Just reach out. We'll help you figure it out.
+Start with one message:
+- **[Your First Ask]({{< xsite "playa" "how-we-gather/sdcap-path/first-ask/" >}})**
 
 ---
 
-*The oxygen doesn't flow without you.* 💨🔵
+*Oxygen flows through stewardship.* 💨🔵

@@ -35,6 +35,17 @@ cd sd-burner-vision
 # http://localhost:1315 (SDCOLAB)
 ```
 
+## Linking Conventions
+
+To keep links working when these sites are hosted under a subdirectory (e.g. GitHub Pages), this repo uses:
+
+- **Internal links (within a site):** Hugo `relref`  
+  Example: `[Events]({{< relref "events/_index.md" >}})`
+
+- **Cross-site links (between sites):** `xsite` shortcode (defined in the theme)  
+  Example: `[Apply for Grants]({{< xsite "sdcap" "grants/" >}})`
+
+
 ## Deployment
 
 Push to `main` branch → GitHub Actions builds → GitHub Pages deploys automatically.

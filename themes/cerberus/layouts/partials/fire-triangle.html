@@ -1,15 +1,15 @@
 <div class="fire-triangle">
-  <a href="{{ .Site.Params.sites.playa }}" class="fire-triangle__element fire-triangle__element--heat">
+  <a href="{{ .Site.Params.sites.playa | relURL }}" class="fire-triangle__element fire-triangle__element--heat">
     <div class="fire-triangle__icon">🔥</div>
     <span class="fire-triangle__label">PLAYA</span>
     <span class="fire-triangle__desc">Heat — Culture</span>
   </a>
-  <a href="{{ .Site.Params.sites.sdcap }}" class="fire-triangle__element fire-triangle__element--oxygen">
+  <a href="{{ .Site.Params.sites.sdcap | relURL }}" class="fire-triangle__element fire-triangle__element--oxygen">
     <div class="fire-triangle__icon">💨</div>
     <span class="fire-triangle__label">SDCAP</span>
     <span class="fire-triangle__desc">Oxygen — Process</span>
   </a>
-  <a href="{{ .Site.Params.sites.sdcolab }}" class="fire-triangle__element fire-triangle__element--fuel">
+  <a href="{{ .Site.Params.sites.sdcolab | relURL }}" class="fire-triangle__element fire-triangle__element--fuel">
     <div class="fire-triangle__icon">🪵</div>
     <span class="fire-triangle__label">SDCOLAB</span>
     <span class="fire-triangle__desc">Fuel — Resources</span>

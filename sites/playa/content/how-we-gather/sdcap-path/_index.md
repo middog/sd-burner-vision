@@ -4,219 +4,71 @@ description: "Working with our nonprofit — the oxygen that lets art breathe"
 weight: 10
 ---
 
-## What is SDCAP? 🔵
+## What SDCAP is 🔵
 
-**San Diego Collaborative Arts Project** is our 501(c)(3) nonprofit.
+**SDCAP (San Diego Collaborative Arts Project)** is the community’s 501(c)(3) nonprofit. In the Fire Triangle, it provides **oxygen**: the administrative and financial structures that let art and events breathe.
 
-In plain speak: we're the paperwork that lets art happen.
+SDCAP typically supports:
+- grants and community funding
+- fiscal sponsorship (processing tax‑deductible donations for projects)
+- event enablement (insurance, guidance, coordination)
+- governance and transparent decision‑making
 
-Think of SDCAP as the **oxygen** in our fire triangle. You can't see oxygen, but without it, fire can't breathe. SDCAP handles the invisible stuff that lets everything else happen:
+SDCAP’s role is to **enable** community work—not to own it.
 
-- Tax-deductible donations (so your gift gives more)
-- Grants for art projects (so you can make the thing)
-- Insurance for events (so we can gather safely)
-- Fiscal sponsorship (so your wild idea can accept funding)
+## When to reach for SDCAP
 
-**SDCAP exists to enable, not to own.** We clear the path. You do the dancing.
+| If you need… | SDCAP can help with… |
+|---|---|
+| 💸 Funding for art/community work | grants and funding pathways |
+| 🧾 Tax‑deductible donations | fiscal sponsorship / donation processing |
+| 📋 Insurance / “official” support | certificates, guidance, logistics |
+| 🤝 Navigation | connecting you to experienced humans |
+| 📚 Process clarity | how decisions get made; what’s required |
 
----
+## How to engage
 
-## What Can SDCAP Help With?
+### 1) A quick question (start here)
+You don’t need a form to begin. Send a short note with:
+- what you’re trying to do
+- what you think you need (or “not sure”)
+- when it’s happening
 
-| If You Need... | We Can... |
-|----------------|-----------|
-| 💸 Funding for your art | Offer grants or fiscal sponsorship |
-| 📋 Event support | Provide insurance, permitting guidance, logistics help |
-| 🧾 Tax-deductible donations | Process donations and send receipts |
-| 🤝 Connections | Introduce you to people who've done similar things |
-| 📚 Knowledge | Share how things work, what we've learned |
+Then SDCAP can route you.
 
----
+**Start:** **[Your First Ask →](first-ask/)**
 
-## The Different Ways to Engage
+### 2) Event support
+If your gathering needs insurance, permits, or heavier coordination, start early.
 
-### 🐕 Just Sniffing Around?
+- Describe the event (what/when/where/expected size)
+- Say what support you’re asking for
+- Include any deadlines (parks, venues, vendors)
 
-**You have a question. You're curious. You're not sure yet.**
+### 3) Grants
+Grant cycles and programs vary. A strong request usually includes:
+- a clear description
+- a realistic budget
+- a timeline
+- community benefit / interactivity
 
-That's totally fine. Just ask.
+### 4) Fiscal sponsorship
+Use this when your project needs a 501(c)(3) umbrella to receive grants or tax‑deductible donations, without forming your own nonprofit.
 
-- Drop a message in Discord
-- Email us
-- Ask someone at an event
+Expect:
+- a short proposal + scope
+- basic reporting
+- an agreement that protects both sides
 
-*Timeline: Usually answered within 48 hours*
+### 5) Proposals and new ideas
+If you want SDCAP to do something new, bring a bounded proposal:
+- problem → proposal → scope → resources → alignment
 
-**No forms. No process. Just reach out.** We're dogs, not robots.
+## Where to read the formal details
 
----
-
-### 🎪 Throwing an Event?
-
-**You want to host something and need support.**
-
-Maybe you need:
-- An insurance certificate
-- Help with permits
-- Promotion through our channels
-- Equipment or supplies
-- Volunteer coordination
-
-**How to do it:**
-
-1. Contact events@ and tell us: what, when, where, who, how many
-2. We'll respond within 72 hours
-3. Bigger asks might need a simple agreement
-
-**Pro tip:** Ask **30+ days** before your event. Rushing makes everything harder.
-
----
-
-### 🎨 Need Funding for Art?
-
-**You want to make something beautiful and need money to do it.**
-
-**Grant programs** (when open):
-- Art Grants — for specific projects
-- Community Development Grants — for community-building initiatives
-- Emergency Assistance — when life happens
-
-**How grants work:**
-1. Watch for announcements (website, Discord) when applications open
-2. Apply by the deadline
-3. We review and let you know within 30 days
-4. If approved: sign agreement → get funds → make art → share what you learned
+- **[SDCAP governance →]({{< xsite "sdcap" "governance/" >}})** (process, transparency, structure)
+- **[SDCAP site →]({{< xsite "sdcap" >}})** (programs, public info)
 
 ---
 
-### 🏦 Fiscal Sponsorship
-
-**Your project needs a 501(c)(3) to receive grants or tax-deductible donations, but you don't want to become a nonprofit yourself.**
-
-We can be your umbrella. Your idea stays your idea — we just handle the tax paperwork.
-
-**Requirements:**
-- Your project aligns with our mission (arts + community + 10 Principles)
-- You have a clear scope and timeline
-- You're willing to do quarterly reporting
-- You're okay with a small fee (5-10% of funds processed)
-
-**How to apply:**
-1. Submit a project proposal
-2. Finance Committee reviews (about 14 days)
-3. Board approval for big stuff
-4. Sign the agreement
-5. We give you our tax ID for donations
-6. You report back quarterly
-
----
-
-### 💡 Got a Big Idea?
-
-**You think SDCAP should do something (or help with something) that we're not doing yet.**
-
-We love ideas. Here's what makes a good proposal:
-
-- **Clear problem** — What's broken or missing?
-- **Specific solution** — What exactly are you proposing?
-- **Bounded scope** — What's in? What's out?
-- **Resource needs** — What does it take? (time, money, people)
-- **Alignment** — How does this serve the community and the 10 Principles?
-
-**The process:**
-1. Write it up (use our template if helpful)
-2. Submit to the relevant committee
-3. They review and give feedback
-4. Revise based on feedback
-5. Committee recommends to board (if needed)
-6. Board decides
-7. We do the thing!
-
----
-
-## The "Yes... And!" Promise 🎭
-
-Here's something important about how we operate:
-
-**You will never hear just "no."**
-
-When SDCAP can't directly support something, we promise to:
-
-1. **Acknowledge** — "Yes, this sounds valuable"
-2. **Explain** — Why it's not a fit for us to own
-3. **Enable** — Here's how you can make it happen anyway
-4. **Connect** — Here's who might help
-5. **Offer** — What support we *can* provide
-
-This is improv. We say "yes, and..." — we build on ideas, we don't shut them down.
-
----
-
-## Who Handles What?
-
-| What You Need | Who to Contact | Who Decides |
-|---------------|----------------|-------------|
-| General questions | Anyone | N/A — just ask |
-| Event support | Events Committee | Committee + Staff |
-| Fiscal sponsorship | Treasurer | Board |
-| Grants | Grants Committee | Committee (within budget) |
-| Project proposals | Relevant Committee | Committee or Board |
-| Technology stuff | Tech Committee | Board (if big) |
-
----
-
-## How Long Things Take
-
-| Request Type | First Response | Decision |
-|--------------|----------------|----------|
-| Questions | 48 hours | Immediate |
-| Event support | 72 hours | 14 days |
-| Fiscal sponsorship | 1 week | 30 days |
-| Grants | 1 week acknowledgment | Per grant cycle |
-| Proposals | 1 week | 14-30 days |
-
-**If we're slow, ping us.** We're volunteers too. Sometimes things slip.
-
----
-
-## The Deal (What We Both Commit To)
-
-### 🔵 SDCAP commits to:
-
-- Respond to all requests
-- Explain decisions clearly
-- Connect you with alternatives if we can't help directly
-- Not compete with community-led efforts
-- Be transparent about our capacity
-- Celebrate community successes
-
-### 🐾 You commit to:
-
-- Align with the 10 Principles
-- Follow through on what you say you'll do
-- Communicate proactively (don't ghost us)
-- Accept that "not now" isn't "not ever"
-- Own your projects — we enable, we don't own
-- Give feedback so we can improve
-
----
-
-## Stuck? Here's the Escalation Ladder
-
-1. **First:** Talk to your primary contact
-2. **Then:** Reach out to the Committee Chair
-3. **Finally:** Contact the Board Chair
-
-We want to help. Help us help you. 🐕
-
----
-
-## Want to See More?
-
-For the full governance documentation (all the details, templates, and formal processes), check out:
-
-**→ [SDCAP Governance Site](../sdcap/governance/)**
-
----
-
-*The oxygen that lets the fire breathe.* 💨🔵
+*Oxygen: invisible when it works, essential when it’s missing.* 💨🔵

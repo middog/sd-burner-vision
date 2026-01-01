@@ -4,64 +4,58 @@ description: "Funding for community art projects"
 weight: 30
 ---
 
-## Fuel for Your Fire 💸
+## Grants: helping projects breathe 💸🔵
 
-SDCAP provides grants to support community art aligned with the [10 Principles](../playa/culture/). We're the **oxygen** helping your ideas breathe.
+SDCAP grant programs support community‑facing art and projects aligned with the **[10 Principles]({{< xsite "playa" "culture/" >}})** and local community needs.
 
-## Grant Programs
+Programs and timelines vary by year; when cycles open, details and application links are announced through community channels.
+
+## Grant programs
 
 ### 🎨 YOUtopia Art Grants
+For art installed at San Diego’s regional burn.
 
-For art installed at San Diego's regional burn.
-
-| Detail | Info |
-|--------|------|
-| **Timeline** | Applications open March, decisions in May |
-| **Range** | $500 – $5,000 |
-| **Requirements** | Project installed at YOUtopia, interactive, artist present |
+| Detail | Typical info |
+|---|---|
+| **Timeline** | applications often open in spring |
+| **Range** | commonly $500–$5,000 |
+| **Fit** | interactive, installed at YOUtopia, artist stewardship present |
 
 ### 🌍 Community Project Grants
+For projects outside YOUtopia that benefit the broader community.
 
-For art and community projects beyond YOUtopia.
+| Detail | Typical info |
+|---|---|
+| **Timeline** | rolling or periodic review (varies) |
+| **Range** | commonly $250–$2,000 |
+| **Examples** | public art, community workshops, outreach builds |
 
-| Detail | Info |
-|--------|------|
-| **Timeline** | Rolling applications, reviewed quarterly |
-| **Range** | $250 – $2,000 |
-| **Eligible** | Pride floats, Maker Faire, public art, community workshops |
+## How to apply (high level)
 
-## How to Apply
+1. Describe the project (what it is + why it matters)
+2. Provide a budget and timeline
+3. Explain community benefit / participation
+4. Submit via the announced form during an open cycle
+5. Respond to clarifying questions if the committee requests them
 
-1. **Prepare your proposal** — Description, budget, timeline, team
-2. **Submit via online form** — Link announced when applications open
-3. **Grants Committee reviews** — We may ask clarifying questions
-4. **Decision within 4 weeks** — We'll explain either way
-5. **If approved:** 70% disbursed upfront, 30% on completion
+## What makes a strong proposal ✅
+- clear scope and deliverables
+- realistic budget (line items; not a wish list)
+- achievable timeline
+- community interaction and stewardship plan
+- safety and leaving‑no‑trace considerations (when relevant)
 
-## What Makes a Strong Proposal?
+## What we generally don’t fund ❌
+- private/commercial benefit
+- personal travel/tickets
+- already‑completed work
+- projects without a clear community-facing component
 
-- ✅ Clear description of what you're making
-- ✅ Realistic budget (we can help you figure this out)
-- ✅ Timeline that makes sense
-- ✅ How it serves the community
-- ✅ Alignment with the 10 Principles
-
-## What We Don't Fund
-
-- ❌ Private or commercial projects
-- ❌ Personal travel or tickets
-- ❌ Already completed work
-- ❌ Projects without community benefit
-
-## Not Sure If You Qualify?
-
-**Just ask.** Seriously. We'd rather help you shape a good proposal than have you not apply.
-
-- Start with [Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/)
-- Or email grants@sdcap.org
-
-**Remember:** We follow the [Yes... And!](../playa/how-we-gather/magic-of-3s/yes-and/) philosophy. Even if your project isn't a fit for grants, we'll help you find another path.
+## Not sure if it fits?
+Start with a short ask:
+- **[Your First Ask]({{< xsite "playa" "how-we-gather/sdcap-path/first-ask/" >}})**  
+- or email **grants@sdcap.org**
 
 ---
 
-*Your art matters. Let's make it happen.* 🎨🔵
+*Good proposals are clear, bounded, and community-facing.* 🔵

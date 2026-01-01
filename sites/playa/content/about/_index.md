@@ -4,36 +4,36 @@ description: "Everything you need to know about San Diego's Burning Man communit
 weight: 10
 ---
 
-## Welcome, Beautiful Human 🐾
+## New to the culture? Start here 🧭🔥
 
-Burning Man is a week-long annual event in Nevada's Black Rock Desert. But it's not just a festival—it's a culture built on radical creativity, self-expression, community, and gifting.
+Burning Man is a culture of participation, not a show you watch. The desert event is one expression of it—but the values live year‑round in regional communities like San Diego.
 
-That culture lives year-round in regional communities like ours. **You found your pack.**
+This site is the local front door: a place to understand what’s happening, how to join in, and what “doing your part” looks like.
 
-## What Happens in San Diego?
+## What exists in San Diego
 
-We're one of the largest regional Burning Man communities in California. Throughout the year, we:
+The community is built as a three‑part system (the Fire Triangle):
 
-- 🔥 Host events and gatherings (the **heat**)
-- 🔧 Build art at [SDCoLab](../sdcolab/) (the **fuel**)
-- 💨 Fund projects through [SDCAP](../sdcap/) (the **oxygen**)
-- 🏜️ Produce **YOUtopia**—our annual regional burn
+- 🔥 **PLAYA (Heat):** gatherings, culture, the calendar, the people
+- 🟡 **[SDCoLab]({{< xsite "sdcolab" >}}) (Fuel):** a makerspace for building art, gear, and infrastructure
+- 🔵 **[SDCAP]({{< xsite "sdcap" >}}) (Oxygen):** a nonprofit that enables grants, sponsorship, and “official” support
 
-Together, these three elements create the fire. And you? **You're what makes it burn.**
+Together, this supports events—including **YOUtopia**, our regional burn.
 
-## How Do I Get Involved?
+## A clean way to get involved
 
-**Show up.** That's the whole trick.
+1. **Show up once** → start with **[Events]({{< relref "events/_index.md" >}})**
+2. **Introduce yourself** → say hi, ask a simple question, learn names
+3. **Offer something small** → help set up, clean up, bring a skill, bring a hand
+4. **Repeat** → consistency turns strangers into collaborators
 
-1. Come to an event — check the [calendar](/events/)
-2. Say hi — we're friendly (we don't bite unless you ask nicely)
-3. Participate — bring something to share, help clean up
-4. Keep showing up — community is built through consistency
+There’s no membership gate. Participation is the credential.
 
-There's no application. No membership. No secret handshake. Just participation.
+## Orientation links
 
-**Want the full orientation?** Check out [How We Gather](/how-we-gather/) or the [New Pup Guide](/how-we-gather/new-pup/).
+- **[How We Gather →]({{< relref "how-we-gather/_index.md" >}})** (the full map)
+- **[New Pup Orientation →]({{< relref "how-we-gather/new-pup.md" >}})** (one page, practical)
 
 ---
 
-*The pack welcomes you.* 🐕🔥
+*Find the people. Bring the heat.* 🔥🐾

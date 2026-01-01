@@ -24,13 +24,16 @@ Complete content refresh with ELIH-5 styling, Fire Triangle theming, and **verif
 ```
 
 ### Cross-Site Link Pattern
-- From SDCAP → PLAYA: `](../playa/how-we-gather/sdcap-path/)`
+- Cross-site links: use `xsite` shortcode (stable regardless of page depth)
+  - Example: `]({{< xsite "playa" "how-we-gather/sdcap-path/" >}})`
 - From SDCoLab → PLAYA: `](../playa/how-we-gather/sdcolab-path/)`
 - From PLAYA → SDCAP: `](../sdcap/)`
 - From PLAYA → SDCoLab: `](../sdcolab/)`
 
 ### Internal Link Pattern
-- Within same site: `](/grants/)` or `](/how-we-gather/)`
+- Within same site: use Hugo `relref` (stable under subdirectory hosting)
+  - Example: `]({{< relref "grants/_index.md" >}})`
+  - Example: `]({{< relref "how-we-gather/_index.md" >}})`
 
 ## Discoverability Added
 

@@ -57,12 +57,12 @@
 <div class="card">
 <h3 class="card__title">🛠️ Build Something</h3>
 <p>Got an art idea? We have space and tools at CoLab.</p>
-<a href="{{ .Site.Params.sites.sdcolab }}" class="btn btn--ghost">Visit CoLab</a>
+<a href="{{ .Site.Params.sites.sdcolab | relURL }}" class="btn btn--ghost">Visit CoLab</a>
 </div>
 <div class="card">
 <h3 class="card__title">💰 Get Funded</h3>
 <p>SDCAP provides grants for community art projects.</p>
-<a href="{{ .Site.Params.sites.sdcap }}grants/" class="btn btn--ghost">Apply for Grants</a>
+<a href="{{ .Site.Params.sites.sdcap | relURL }}grants/" class="btn btn--ghost">Apply for Grants</a>
 </div>
 </div>
 </div>
@@ -282,7 +282,7 @@
 <div class="container container--narrow text-center">
 <h2>Need Funding?</h2>
 <p>Got a project but need materials money? SDCAP provides grants.</p>
-<a href="{{ .Site.Params.sites.sdcap }}grants/" class="btn btn--secondary mt-md">Apply for a Grant</a>
+<a href="{{ .Site.Params.sites.sdcap | relURL }}grants/" class="btn btn--secondary mt-md">Apply for a Grant</a>
 </div>
 </section>
 

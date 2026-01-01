@@ -4,45 +4,44 @@ description: "Who we are and what we do"
 weight: 10
 ---
 
-## The Oxygen That Lets Art Breathe 🔵
+## What we are 🔵
 
-**San Diego Collaborative Arts Project (SDCAP)** is a 501(c)(3) nonprofit supporting the San Diego Burning Man community.
+**San Diego Collaborative Arts Project (SDCAP)** is a 501(c)(3) public charity supporting arts and community activity connected to the San Diego Burning Man ecosystem.
 
-In our [Fire Triangle](../playa/how-we-gather/), SDCAP is the **oxygen**—the enablement, logistics, and process that lets everything else happen. You can't see oxygen, but without it, fire can't breathe.
+In the community’s **[Fire Triangle]({{< xsite "playa" "how-we-gather/" >}})**, SDCAP provides **oxygen**: the administrative, financial, and governance structures that help community work happen responsibly.
 
-## What We Provide
+## What we provide
 
-| Service | What It Means |
-|---------|---------------|
-| **Grants** | Funding for community art projects |
-| **Fiscal Sponsorship** | Tax-deductible donations for your project |
-| **Insurance** | Coverage for community events |
-| **YOUtopia** | Production of San Diego's regional burn |
-| **Knowledge** | Stewarding community history and how-to |
+| Service | What it covers |
+|---|---|
+| **Grants** | funding for community-facing art and projects |
+| **Fiscal sponsorship** | processing tax‑deductible donations for eligible projects |
+| **Event enablement** | insurance support and operational guidance where applicable |
+| **YOUtopia** | producing San Diego’s regional burn |
+| **Stewardship** | documentation, continuity, institutional memory |
 
-## Our Philosophy
+## Operating philosophy
 
-> *"We enable, we don't own."*
+> **Enable, don’t own.**
 
-SDCAP exists to clear the path for art and community—not to control them. We're here to say **"Yes... And!"** to your ideas.
+We aim to reduce friction, increase clarity, and keep community work community‑led.
 
-## Organization Details
+## Organization details
 
 | | |
 |---|---|
-| **Legal Name** | San Diego Collaborative Arts Project, Inc. |
-| **Tax Status** | 501(c)(3) Public Charity |
+| **Legal name** | San Diego Collaborative Arts Project, Inc. |
+| **Tax status** | 501(c)(3) public charity |
 | **Founded** | 2004 |
-| **Structure** | All-volunteer Board of Directors |
+| **Structure** | all‑volunteer Board of Directors |
 
-Donations may be tax-deductible. Consult your tax advisor.
+Donations may be tax‑deductible; consult a tax advisor for your situation.
 
-## Want to Engage?
+## Next steps
 
-**New to SDCAP?** Start with [The SDCAP Path](../playa/how-we-gather/sdcap-path/) for a friendly introduction.
-
-**Ready to dive in?** Check out [Get Involved](/get-started/) or the [Governance](/governance/) section.
+- Start with **[How to Engage with SDCAP]({{< xsite "playa" "how-we-gather/sdcap-path/" >}})**  
+- Or go directly to **[Get Involved]({{< relref "get-started/_index.md" >}})** / **[Governance]({{< relref "governance/_index.md" >}})**
 
 ---
 
-*Clearing the path for motion and flow.* 💨🔵
+*Transparent structure. Community-led outcomes.* 🔵

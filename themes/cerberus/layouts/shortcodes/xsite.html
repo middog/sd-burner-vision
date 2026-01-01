@@ -1,0 +1,32 @@
+{{- /*
+xsite: Cross-site link helper.
+
+Usage:
+  {{< xsite "playa" >}}                       -> link to PLAYA root
+  {{< xsite "sdcap" "grants/" >}}             -> link to SDCAP grants
+  {{< xsite "sdcolab" "space/" >}}            -> link to SDCoLab space
+
+It uses .Site.Params.sites.<id> and pipes through relURL so links are stable
+regardless of page depth and baseURL path.
+*/ -}}
+
+{{- $site := (.Get 0 | default "") -}}
+{{- $tail := (.Get 1 | default "") -}}
+
+{{- $base := index .Site.Params.sites $site -}}
+{{- if not $base -}}
+  {{- errorf "xsite shortcode: unknown site '%s' (expected one of: playa, sdcap, sdcolab)" $site -}}
+{{- end -}}
+
+{{- $baseRel := ($base | relURL) -}}
+{{- $tail = (strings.TrimPrefix "/" $tail) -}}
+
+{{- if eq $tail "" -}}
+  {{- $baseRel -}}
+{{- else -}}
+  {{- if strings.HasSuffix $baseRel "/" -}}
+    {{- printf "%s%s" $baseRel $tail -}}
+  {{- else -}}
+    {{- printf "%s/%s" $baseRel $tail -}}
+  {{- end -}}
+{{- end -}}

@@ -4,38 +4,38 @@ description: "SDCAP-sponsored events and YOUtopia"
 weight: 40
 ---
 
-## YOUtopia 🏜️
+## YOUtopia 🏜️🔥
 
-San Diego's official Burning Man regional event—a multi-day camping festival in the mountains east of San Diego.
+YOUtopia is San Diego’s official Burning Man regional event: a multi‑day, community‑built camping gathering rooted in the **[10 Principles]({{< xsite "playa" "culture/" >}})**.
 
-| Detail | Info |
-|--------|------|
-| **When** | Columbus Day weekend (October) |
+Details vary by year; when in doubt, follow the official event communications.
+
+| Detail | Typical info |
+|---|---|
+| **When** | October (often around Columbus Day weekend) |
 | **Where** | Los Coyotes Indian Reservation |
-| **Tickets** | Available spring/summer |
-| **What** | Art, music, fire, community, radical self-expression |
+| **Tickets** | spring/summer (varies) |
+| **What** | art, music, fire, participation, community infrastructure |
 
-YOUtopia is where the San Diego Burning Man community comes together to create a temporary city based on the [10 Principles](../playa/culture/).
+## SDCAP-supported events
 
-## SDCAP-Supported Events
+Throughout the year, SDCAP may support community events with:
+- insurance certificates (when appropriate)
+- amplification through official channels
+- logistical guidance
+- occasional funding pathways
 
-Throughout the year, SDCAP supports community events with:
+If you’re hosting something and need enablement support:
 
-- 📋 Insurance certificates
-- 📢 Promotion through our channels
-- 💸 Event grants (when available)
-- 🤝 Logistics guidance
+- **[The SDCAP Path →]({{< xsite "playa" "how-we-gather/sdcap-path/" >}})**
+- **[Your First Ask →]({{< xsite "playa" "how-we-gather/sdcap-path/first-ask/" >}})**
 
-**Want support for your event?** Check out [The SDCAP Path](../playa/how-we-gather/sdcap-path/) or [Your First Ask](../playa/how-we-gather/sdcap-path/first-ask/).
+## Community-wide calendar
 
-## Community Calendar
+For the broader calendar (not just SDCAP-sponsored):
 
-For **all** community events (not just SDCAP-sponsored), check:
-
-**→ [PLAYA Events Calendar](../playa/events/)**
-
-That's where the heat gathers. 🔥
+- **[PLAYA Events →]({{< xsite "playa" "events/" >}})**
 
 ---
 
-*Where the community burns together.* 🏜️🔵
+*Support structure for the moments that gather the community.* 🔵

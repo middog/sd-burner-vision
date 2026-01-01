@@ -11,15 +11,15 @@
       </a>
       
       <nav class="site-switcher">
-        <a href="{{ .Site.Params.sites.playa }}" {{ if eq .Site.Params.site_id "playa" }}class="active"{{ end }}>
+        <a href="{{ .Site.Params.sites.playa | relURL }}" {{ if eq .Site.Params.site_id "playa" }}class="active"{{ end }}>
           <span class="dot" style="background: var(--heat);"></span>
           <span>PLAYA</span>
         </a>
-        <a href="{{ .Site.Params.sites.sdcap }}" {{ if eq .Site.Params.site_id "sdcap" }}class="active"{{ end }}>
+        <a href="{{ .Site.Params.sites.sdcap | relURL }}" {{ if eq .Site.Params.site_id "sdcap" }}class="active"{{ end }}>
           <span class="dot" style="background: var(--oxygen);"></span>
           <span>SDCAP</span>
         </a>
-        <a href="{{ .Site.Params.sites.sdcolab }}" {{ if eq .Site.Params.site_id "sdcolab" }}class="active"{{ end }}>
+        <a href="{{ .Site.Params.sites.sdcolab | relURL }}" {{ if eq .Site.Params.site_id "sdcolab" }}class="active"{{ end }}>
           <span class="dot" style="background: var(--fuel);"></span>
           <span>SDCOLAB</span>
         </a>
@@ -33,7 +33,8 @@
       
       <nav class="main-nav">
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ $isCurrent := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
+        <a href="{{ .URL | relURL }}" {{ if $isCurrent }}class="active" aria-current="page"{{ end }}>{{ .Name }}</a>
         {{ end }}
       </nav>
     </div>

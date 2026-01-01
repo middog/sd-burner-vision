@@ -4,41 +4,48 @@ description: "Find your people, find your pack"
 weight: 20
 ---
 
-## Your Pack is Out There 🐕
+## Community is a verb 🐾
 
-San Diego's Burning Man community is a loose network of people who share values, not a formal organization. Here's how to find your people.
+San Diego Burners aren’t a single club with a single door. It’s a network of crews, camps, builders, performers, makers, and quiet contributors—connected by shared principles and repeated participation.
 
-## Theme Camps
+This page is a map to the humans.
 
-Theme camps are groups who come together around a shared concept—interactive experiences they create at events. San Diego has dozens of active camps, from chill lounges to fire-breathing chaos zones.
+## Where to meet people
 
-**How to find one:**
-- Come to events and meet people
-- Ask around on Discord
-- Watch for camp recruitment posts before YOUtopia
+- **Local gatherings** (potlucks, socials, decompressions) → start with **[Events]({{< relref "events/_index.md" >}})**
+- **Build time** at **[SDCoLab]({{< xsite "sdcolab" >}})** (open hours, classes, build parties)
+- **Regional event**: YOUtopia (seasonal momentum + camp formation)
+- **Skill circles** (fire practice, flow jams, workshops)
 
-**Want to start your own?** That's a **project → party → practice** journey. Start small, prove it works, grow from there.
+If you go twice, you start recognizing faces. If you go three times, you start belonging.
 
-## How We Communicate
+## Theme camps
 
-| Channel | What It's For |
-|---------|---------------|
-| **Discord** | Day-to-day coordination, questions, chatter |
-| **Mailing List** | Low-volume major announcements |
-| **In Person** | The best communication (always) |
+Theme camps are groups that build interactive experiences at events. Some are big and loud; some are tiny and precise. Most are always recruiting—quietly—through relationships.
 
-## I Just Moved Here
+How to find a camp:
+- Show up to events and talk to people doing work
+- Ask in community channels (Discord is usually the fastest)
+- Watch for recruitment posts during YOUtopia season
 
-Welcome to the pack! 🐾 Here's your quick-start:
+Starting a camp is possible, but it’s work: begin as a **project**, host a **party**, and only then turn it into a **practice**.
 
-1. **Join the Discord** — Lurk first, post when ready
-2. **Come to First Fridays** — Monthly open house at [SDCoLab](../sdcolab/)
-3. **Pick one event** — [Check the calendar](/events/) and show up
-4. **Repeat** — Until you recognize faces (usually 2-3 events)
+## Where we communicate
 
-That's it. No velvet ropes. No secret handshakes. Just show up and be real.
+| Channel | Best for |
+|---|---|
+| **Discord** | day‑to‑day coordination, questions, announcements |
+| **Mailing list** | low‑volume “important dates” and major updates |
+| **In person** | the real bandwidth (build days, hangs, events) |
 
-**Lost?** The [New Pup Orientation](/how-we-gather/new-pup/) has everything you need.
+## If you just moved here
+
+1. Join the community channels (Discord / mailing list)
+2. Attend one low‑stakes event (social, open house, potluck)
+3. Introduce yourself to one person and learn one name
+4. Come back once more within 30 days
+
+If you want the shortest possible guide: **[New Pup Orientation →]({{< relref "how-we-gather/new-pup.md" >}})**
 
 ---
 

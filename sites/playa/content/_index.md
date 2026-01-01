@@ -3,36 +3,39 @@ title: "San Diego Burners"
 description: "The heat in our Fire Triangle — culture, events, community"
 ---
 
-## Welcome to the Pack 🔥
+## PLAYA: the community hub 🔥🐾
 
-This is **PLAYA** — the community hub for San Diego Burners. We're the heat in the Fire Triangle: the people, the energy, the participation.
+**PLAYA** is where San Diego Burners gather year‑round: culture, events, and the practical “how do I plug in?” layer.
+If you’re looking for people, a calendar, or a path from *curious* to *participating*, start here.
 
-## Quick Links
+## Start here
 
-| I want to... | Go here |
-|--------------|---------|
-| **Understand how everything works** | [How We Gather →](/how-we-gather/) |
-| Find events | [Events Calendar](/events/) |
-| Learn the culture | [10 Principles & Culture](/culture/) |
-| Get started participating | [Get Started](/get-started/) |
-| Find my people | [Community](/community/) |
+| I want to… | Go here |
+|---|---|
+| Understand how the whole system works | [How We Gather →]({{< relref "how-we-gather/_index.md" >}}) |
+| Find what’s happening next | [Events →]({{< relref "events/_index.md" >}}) |
+| Learn the culture and expectations | [Culture →]({{< relref "culture/_index.md" >}}) |
+| Get a simple on‑ramp | [Get Started →]({{< relref "get-started/_index.md" >}}) |
+| Find community channels and camps | [Community →]({{< relref "community/_index.md" >}}) |
 
 ## The Fire Triangle
 
-Our community runs on three parts:
+Our ecosystem is intentionally split into three functions:
 
-| Site | Role | What It Provides |
-|------|------|------------------|
-| 🔴 **[PLAYA](/)** (you are here) | Heat | Culture, events, community |
-| 🔵 **[SDCAP](../sdcap/)** | Oxygen | Grants, governance, enablement |
-| 🟡 **[SDCoLab](../sdcolab/)** | Fuel | Space, tools, materials |
+| Site | Role | What you use it for |
+|---|---|---|
+| 🔴 **PLAYA** (this site) | Heat | People, gatherings, shared culture |
+| 🔵 **[SDCAP]({{< xsite "sdcap" >}})** | Oxygen | Grants, fiscal sponsorship, governance, event enablement |
+| 🟡 **[SDCoLab]({{< xsite "sdcolab" >}})** | Fuel | Space, tools, materials, classes, build time |
 
-## New Here?
+When something feels stuck, it’s usually because one element is missing: **heat**, **oxygen**, or **fuel**.
 
-**[Start with How We Gather →](/how-we-gather/)** — everything you need to know about engaging with San Diego Burners, SDCAP, and SDCoLab.
+## New here?
 
-Or jump straight to the **[New Pup Orientation](/how-we-gather/new-pup/)** for the one-page cheat sheet.
+- Read the one‑page **[New Pup Orientation →]({{< relref "how-we-gather/new-pup.md" >}})**  
+- Pick one event and show up: **[Events →]({{< relref "events/_index.md" >}})**
+- Ask one question in the community channels, then follow the thread 📌
 
 ---
 
-*Three heads, one fire. Welcome to the pack.* 🐕🔥
+*Three heads. One fire.* 🐕🔥

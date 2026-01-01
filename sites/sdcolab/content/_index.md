@@ -3,28 +3,27 @@ title: "SDCoLab"
 description: "San Diego Collaborative Lab — the fuel that feeds the flame"
 ---
 
-## The Fuel in Our Fire Triangle 🟡
+## SDCoLab: makerspace fuel 🟡🔧
 
-**SDCoLab** is the community makerspace where ideas become objects. We provide workshop space, tools, materials, and expertise.
+**SDCoLab** is the community makerspace where ideas become objects: workspace, tools, materials, classes, and shared know‑how.
 
-You bring the vision. **We provide the fuel.**
+In the Fire Triangle, we provide **fuel**—the tangible resources that let community heat turn into real builds.
 
-## Quick Links
+## Start here
 
-| I want to... | Go here |
-|--------------|---------|
-| **Understand how to work with SDCoLab** | [How to Engage with SDCoLab →](../playa/how-we-gather/sdcolab-path/) |
-| Get access to the space | [Access Levels](/access/) |
-| Take a class | [Classes](/classes/) |
-| See what tools we have | [The Space](/space/) |
-| Start a project | [Projects](/projects/) |
+| I want to… | Go here |
+|---|---|
+| Understand how to engage with SDCoLab | [How to Engage →]({{< xsite "playa" "how-we-gather/sdcolab-path/" >}}) |
+| Learn access levels | [Get Access →]({{< relref "access/_index.md" >}}) |
+| Take a class | [Classes →]({{< relref "classes/_index.md" >}}) |
+| See the space and tools | [The Space →]({{< relref "space/_index.md" >}}) |
+| Start a build | [Projects →]({{< relref "projects/_index.md" >}}) |
 
-## New Here?
+## New here?
 
-Start with **[How to Engage with SDCoLab](../playa/how-we-gather/sdcolab-path/)** — a friendly guide to using the makerspace, from your first visit to project residency.
-
-**Ready to build?** Check out [Your First Build](../playa/how-we-gather/sdcolab-path/first-build/) for a step-by-step walkthrough.
+- first‑time flow: **[Get Access →]({{< relref "access/_index.md" >}})**
+- step‑by‑step guide: **[Your First Build]({{< xsite "playa" "how-we-gather/sdcolab-path/first-build/" >}})**
 
 ---
 
-*The fuel that feeds the flame.* 🪵🟡
+*Fuel for making: space, tools, and shared skill.* 🟡

@@ -4,51 +4,47 @@ description: "San Diego's community makerspace — the fuel that feeds the flame
 weight: 10
 ---
 
-## The Fuel That Feeds the Flame 🟡
+## What SDCoLab is 🟡
 
-**SDCoLab** (San Diego Collaborative Lab) is our community makerspace—where ideas become objects.
+**SDCoLab (San Diego Collaborative Lab)** is a community makerspace: a shared workshop for building art, infrastructure, experiments, and the strange beautiful things that show up at events.
 
-In our [Fire Triangle](../playa/how-we-gather/), SDCoLab is the **fuel**: the tools, space, materials, and expertise that make art possible. Without fuel, there's nothing for the fire to consume.
+In the community’s **[Fire Triangle]({{< xsite "playa" "how-we-gather/" >}})**, SDCoLab is **fuel**—the tangible layer: space, tools, materials, and training.
 
-## What We Provide
+## What we provide
 
-| Resource | What It Means |
-|----------|---------------|
-| **Space** | 2,500+ sq ft workshop |
-| **Tools** | Welding, woodworking, electronics, textiles |
-| **Materials** | Scrap pile, surplus, group buys |
-| **Knowledge** | Classes, expertise, mentorship |
-| **Community** | Build parties, mutual aid, pack energy |
+| Resource | What it means |
+|---|---|
+| **Space** | shared workshop + work zones |
+| **Tools** | fabrication, woodworking, electronics, textiles (varies) |
+| **Materials** | scrap, surplus, consumables (availability varies) |
+| **Training** | classes + tool certifications |
+| **Community** | build parties, mentorship, mutual aid |
 
 ## Location
-
-Barrio Logan area of San Diego. Address provided after orientation.
+Barrio Logan area of San Diego. (Exact address is typically shared during orientation / in member channels.)
 
 ## Hours
+Hours can shift with staffing and projects. Common touchpoints include:
+- **First Fridays** (monthly open house)
+- **Sunday Open Shop**
+- **Staffed weekday evenings**
 
-| When | What |
-|------|------|
-| **First Fridays** | 6–9 PM (monthly open house) — **Start here!** |
-| **Sunday Open Shop** | 12–5 PM (weekly) |
-| **Staffed Hours** | Tue/Thu 6–10 PM, Sat 10 AM–6 PM |
+Check the community channels for the current schedule.
 
 ## Costs
+Costs and suggested contributions can change; confirm current rates in official postings.
 
-| Access Level | Suggested Contribution |
-|--------------|----------------------|
-| **Open hours** | Free (donations welcome) |
-| **Classes** | $20–50 (covers materials) |
-| **Monthly membership** | $50/month |
-| **Key holder (24/7)** | $100/month |
+Typical categories:
+- drop‑in/open hours (often free; donations welcome)
+- classes (materials cost)
+- monthly membership
+- extended access (key holder)
 
-**Can't afford it?** Talk to us. We'd rather have you building than not. Seriously.
-
-## Want to Get Started?
-
-**[The SDCoLab Path](../playa/how-we-gather/sdcolab-path/)** — Friendly guide to engaging with the makerspace
-
-**[Your First Build](../playa/how-we-gather/sdcolab-path/first-build/)** — From idea to object
+## Start building
+- **[Get Access →]({{< relref "access/_index.md" >}})**  
+- **[Classes →]({{< relref "classes/_index.md" >}})**  
+- **[Your First Build →]({{< xsite "playa" "how-we-gather/sdcolab-path/first-build/" >}})**
 
 ---
 
-*Where the fuel gets formed.* 🪵🟡
+*Build safely. Clean up. Teach forward.* 🟡🔧

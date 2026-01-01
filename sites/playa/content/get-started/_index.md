@@ -4,75 +4,70 @@ description: "From zero to burner in a few easy steps"
 weight: 50
 ---
 
-## Start a Thing 🚀
+## Participation, scaled 🚀🐾
 
-The best way to participate is to **do** something. Here's our mantra:
+A reliable on‑ramp is to do something small—then let it grow only if it earns it.
 
 ```
 PROJECT → PARTY → PRACTICE
 ```
 
-Start small. Prove it works. Keep what earns it.
+- **Project:** a bounded deliverable (ends on purpose)
+- **Party:** a time‑boxed collaboration session (build day, workshop, meetup)
+- **Practice:** an ongoing ritual (stewarded, repeatable, shared)
 
-### 🎯 Start a Project (Bounded)
+### Project: make a thing 🎯
+Examples:
+- a small LED piece
+- a costume element
+- a tiny interactive gift for an event
 
-Got an idea? Build it. Write it. Make it.
+If you need **space/tools**, look at **[SDCoLab]({{< xsite "sdcolab" >}})**.  
+If you need **funding/official support**, look at **[SDCAP]({{< xsite "sdcap" >}})**.
 
-- Small projects can happen anywhere
-- Bigger projects might need [CoLab space](../sdcolab/) or [SDCAP funding](../sdcap/grants/)
+### Party: host a moment 🎉
+Examples:
+- a potluck
+- a build night
+- a workshop
+- a park practice session
 
-**Example:** "I want to build a light-up art piece for YOUtopia"
+You don’t need permission to host a community gathering. You need a date, a place, and follow‑through.
 
-### 🎉 Start a Party (Time-boxed)
+### Practice: keep it alive 🔁
+Examples:
+- a monthly build day
+- a recurring skills night
+- a standing volunteer crew
 
-Host a gathering—potluck, workshop, practice session, theme night.
+Consistency is how culture becomes real.
 
-- Events don't need permission
-- Just someone willing to make them happen
+## A first‑month plan
 
-**Example:** "Let's do a monthly craft night"
+### Week 1: orient 🧭
+- Read **[Culture]({{< relref "culture/_index.md" >}})**
+- Browse **[Events]({{< relref "events/_index.md" >}})** and pick one date
+- Skim **[New Pup Orientation]({{< relref "how-we-gather/new-pup.md" >}})**
 
-### 🔄 Start a Practice (Ongoing)
-
-Share a skill regularly. Consistency builds community.
-
-- Weekly burn circle
-- Monthly potluck
-- Regular workshop series
-
-**Example:** "Tuesday fire spinning at the park, every week"
-
-## Your First Month 🐕
-
-### Week 1: Sniff Around
-- Join Discord, lurk, read
-- Browse the [events calendar](/events/)
-- Read the [culture page](/culture/)
-
-### Week 2: Show Up Once
+### Week 2: show up 👣
 - Attend one event
-- Talk to at least one person
-- Don't stress about knowing things
+- Learn one name
+- Ask one practical question
 
-### Week 3: Show Up Again
-- Different event this time
-- Start recognizing faces
-- Ask questions you're curious about
+### Week 3: return 🔥
+- Go again (different event if you want)
+- Offer a small help (setup, teardown, cleanup, logistics)
 
-### Week 4: Do Something
-- Volunteer for something small
-- Help with someone else's project
-- OR start thinking about your own thing
+### Week 4: do something 🧩
+- Volunteer for a small task
+- Or start a tiny project you can finish in a week
 
-**By month's end:** You'll know people. They'll know you. You'll belong.
+## Need a path?
 
-## Need More Guidance?
-
-- **[New Pup Orientation](/how-we-gather/new-pup/)** — The one-page cheat sheet
-- **[How We Gather](/how-we-gather/)** — Understanding our Fire Triangle
-- **[The SDCAP Path](/how-we-gather/sdcap-path/)** — When you need funding or support
-- **[The SDCoLab Path](/how-we-gather/sdcolab-path/)** — When you want to build things
+- **[How We Gather →]({{< relref "how-we-gather/_index.md" >}})** (the map)
+- **[The SDCAP Path →]({{< relref "how-we-gather/sdcap-path/_index.md" >}})** (funding, sponsorship, “official” support)
+- **[The SDCoLab Path →]({{< relref "how-we-gather/sdcolab-path/_index.md" >}})** (space, tools, building)
 
 ---
 
-*The pack is waiting. Come run with us.* 🐾🔥
+*Start small. Make it real. Repeat.* 🔥🐾
